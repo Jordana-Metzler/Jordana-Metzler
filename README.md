@@ -1,54 +1,58 @@
-# 👩‍💻 Jordana Metzler
+<h1 align="left">Prazer, Jordana Metzler 👋</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Atleta Universitária  
-💼 Em busca de oportunidades em desenvolvimento Mobile, Back-End ou Data Science  
-📍 Porto Alegre/RS – Brasil
+###
 
----
+<p align="left">Meu nome é Jordana Metzler e sou estudante de analise de desenvolvimento de sistemas apaixonada por desenvolvimento mobile, ciência de dados e back-end. Sou de Porto Alegre/RS</p>
 
-## 🚀 Tecnologias que estou explorando
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">
+✨ Criando bugs desde minha primeira aula de Java na faculdade<br>
+📚 Atualmente estudando Flutter, Kotlin e Spring Boot<br>
+🎯 Objetivo: Conseguir um estágio na área de tecnologia, para aprimorar meus conhecimentos, ampliar minha rede de contatos e dar meus primeiros passos na área.<br>
+🎲 Curiosidade: Sou atleta de vôlei há 11 anos e hoje defendo o time da faculdade e durante o curso busco unir nos projetos minhas duas paixões, vôlei + tecnologia!
+</p>
+
+###
+
+<h2 align="left">Tecnologias que utilizo</h2>
+
+###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,python,mysql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,python,mysql,html,css,git,php" />
 </div>
 
----
+###
 
-## 🌟 Projetos em destaque
+<h2 align="left">Projetos em destaque</h2>
 
-🔹 [📱 App Flutter - Organização de Tarefas](https://github.com/Jordana-Metzler/App_Flutter)  
-App desenvolvido com Flutter para cadastro e gerenciamento de tarefas, com interface intuitiva e foco em produtividade.
+###
 
-🔹 [📊 VNL 2024 - Análise de Dados em Python](https://github.com/Jordana-Metzler/VNL2024_DataScience)  
-Projeto de Ciência de Dados com análise estatística e visualização dos jogos da Liga das Nações de Vôlei Feminino 2024.
+- [📱 App Flutter - Gerenciador de Tarefas](https://github.com/Jordana-Metzler/App_Flutter): aplicativo feito em Flutter para organizar tarefas com uma interface limpa.  
+- [📊 VNL 2024 - Análise de Dados](https://github.com/Jordana-Metzler/VNL2024_DataScience): projeto de ciência de dados com estatísticas e visualizações da Liga das Nações de Vôlei Feminino.  
+- [📚 API de Biblioteca (Java)](https://github.com/Jordana-Metzler/API_Biblioteca): API back-end com Spring Boot, autenticação JWT e banco de dados relacional.
 
-🔹 [📚 API RESTful - Sistema de Biblioteca em Java](https://github.com/Jordana-Metzler/API_Biblioteca)  
-Sistema completo com CRUD, autenticação JWT e banco de dados relacional, desenvolvido em Java com Spring Boot.
+###
 
----
+<h2 align="left">📈 Estatísticas no GitHub</h2>
 
-## 📈 Minhas estatísticas no GitHub
+###
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jordana-Metzler&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-Metzler&layout=compact&theme=dracula" />
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jordana-Metzler&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-Metzler&layout=compact&theme=radical" />
 </div>
 
----
+###
 
-## 💡 Sobre mim
+<h2 align="left">📫 Vamos nos conectar!</h2>
 
-- 🚀 Estou sempre em busca de novos aprendizados e desafios  
-- 📊 Apaixonada por dados, esportes e soluções práticas  
-- 💡 Gosto de construir projetos que combinam tecnologia e criatividade
+###
 
----
-
-## 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordana-metzler)  
-[![Email](https://img.shields.io/badge/-jordana@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordana@email.com)
-
----
-
-> ⭐ Dê uma olhada nos meus repositórios e fique à vontade para deixar uma estrela ⭐ ou me chamar para trocar ideias!
+<p align="left">
+  <a href="https://linkedin.com/jordana-metzler>
