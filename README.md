@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Jordana Metzler e sou estudante de analise de desenvolvimento de sistemas apaixonada por desenvolvimento mobile, ciência de dados e back-end. Sou de Porto Alegre/RS</p>
+<p align="left">Meu nome é Jordana Metzler e sou estudante de analise de desenvolvimento de sistemas apaixonada por desenvolvimento mobile, ciência de dados e back-end.</p>
 
 ###
 
