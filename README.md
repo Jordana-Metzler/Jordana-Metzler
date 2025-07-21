@@ -33,7 +33,7 @@
 
 ###
 
-- [📱 App Flutter - Gerenciador de Tarefas](https://github.com/Jordana-Metzler/App_Flutter): aplicativo feito em Flutter para organizar tarefas com uma interface limpa.  
+- [📱 App Flutter - Gerenciador de Cursos](https://github.com/Jordana-Metzler/App_Flutter): aplicativo feito em Flutter com navegação entre telas, consumo de APIs e consumo de widgets externos.  
 - [📊 VNL 2024 - Análise de Dados](https://github.com/Jordana-Metzler/VNL2024_DataScience): projeto de ciência de dados com estatísticas e visualizações da Liga das Nações de Vôlei Feminino.  
 - [📚 API de Biblioteca (Java)](https://github.com/Jordana-Metzler/API_Biblioteca): API back-end com Spring Boot, autenticação JWT e banco de dados relacional.
 
