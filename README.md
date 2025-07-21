@@ -33,9 +33,11 @@
 
 ###
 
-- [📱 App Flutter - Gerenciador de Cursos](https://github.com/Jordana-Metzler/App_Flutter): aplicativo feito em Flutter com navegação entre telas, consumo de APIs e consumo de widgets externos.  
-- [📊 VNL 2024 - Análise de Dados](https://github.com/Jordana-Metzler/VNL2024_DataScience): projeto de ciência de dados com estatísticas e visualizações da Liga das Nações de Vôlei Feminino.  
-- [📚 API de Biblioteca (Java)](https://github.com/Jordana-Metzler/API_Biblioteca): API back-end com Spring Boot, autenticação JWT e banco de dados relacional.
+- [📱 App Flutter - Gerenciador de Cursos](https://github.com/Jordana-Metzler/App_Flutter): App desenvolvido em flutter, realizando consumo de apis, como a API Brasil e consumo de widgets externos. O app tem como objetivo a matrícula de alunos em seus cursos, podendo realizar o crud completo para os cursos dentro do app.
+- [🏐 APP Vôlei em Kotlin](https://github.com/Jordana-Metzler/APP-Volei): Desenvolvi a ideia do projeto App Vôlei com o intuito de automatizar e facilitar a visualização da classificação das equipes de
+vôlei nas competições. Este projeto veio com a proposta de solucionar a dificuldade do cálculo dos pontos avarege em caso de empate na classificação. 
+- [📊 VNL 2024 - Análise de Dados](https://github.com/Jordana-Metzler/VNL2024_DataScience): projeto de ciência de dados utilizando o jupter notebook com uma análise aprofundada com estatísticas e visualizações da Liga das Nações de Vôlei Feminino.  
+- [📚 API de Biblioteca (Java)](https://github.com/Jordana-Metzler/API_Biblioteca): API back-end com Spring Boot, CRUD completo, autenticação JWT e banco de dados relacional.
 
 ###
 
