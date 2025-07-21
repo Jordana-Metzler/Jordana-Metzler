@@ -44,8 +44,8 @@
 ###
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jordana-Metzler&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Jordana" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-Metzler&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jordana-Metzler&show_icons=true&theme=light" alt="Estatísticas do GitHub de Jordana" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-Metzler&layout=compact&theme=light" alt="Linguagens mais usadas" height="180" />
 </p>
 
 
