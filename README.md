@@ -13,7 +13,7 @@
 <p align="left">
 ✨ Criando e resolvendo bugs desde minha primeira aula de agoritmos na faculdade<br>
 📚 Atualmente estudando Flutter, Kotlin e Spring Boot<br>
-🎯 Objetivo: Conseguir um estágio na área de tecnologia, para aprimorar meus conhecimentos, ampliar minha rede de contatos e dar meus primeiros passos na área.<br>
+🎯 Objetivo: Conseguir um estágio na área de tecnologia, para aprimorar meus conhecimentos, ampliar minha rede de contatos e dar meus primeiros passos na jornada profissional.<br>
 🎲 Curiosidade: Sou atleta de vôlei há 11 anos e hoje defendo o time da faculdade e durante o curso busco unir nos projetos minhas duas paixões, vôlei + tecnologia!
 </p>
 
