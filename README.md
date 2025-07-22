@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Jordana Metzler e sou estudante de analise de desenvolvimento de sistemas apaixonada por desenvolvimento mobile, ciência de dados e back-end.</p>
+<p align="left">Meu nome é Jordana Metzler e sou estudante de analise de desenvolvimento de sistemas apaixonada por mobile, ciência de dados e back-end.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Criando bugs desde minha primeira aula de Java na faculdade<br>
+✨ Criando e resolvendo bugs desde minha primeira aula de agoritmos na faculdade<br>
 📚 Atualmente estudando Flutter, Kotlin e Spring Boot<br>
 🎯 Objetivo: Conseguir um estágio na área de tecnologia, para aprimorar meus conhecimentos, ampliar minha rede de contatos e dar meus primeiros passos na área.<br>
 🎲 Curiosidade: Sou atleta de vôlei há 11 anos e hoje defendo o time da faculdade e durante o curso busco unir nos projetos minhas duas paixões, vôlei + tecnologia!
